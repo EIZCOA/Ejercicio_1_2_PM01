@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio 1.2 PM01</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtapellidos">Apellidos</string>
+    <string name="intedad">Edad</string>
+    <string name="txtcorreo">Correo</string>
+    <string name="btnenviar">Enviar</string>
+    <string name="btnregresar">Volver</string>
+</resources>
